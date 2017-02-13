@@ -4,11 +4,11 @@ import './Header.css'
 
 const Header = () => {
   return (
-    <div>
+    <div className="header">
       <h2 className="header-h2">Meet Ladybug</h2>
       <img className="header-img" src={bug} alt="bug" />
     </div>
   );
-}
+};
 
 export default Header

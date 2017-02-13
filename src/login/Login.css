@@ -1,0 +1,9 @@
+.login {
+  display: inline;
+  position: absolute;
+  right: 0px;
+}
+.login-ico {
+  display: inline;
+  width: 30px;
+}
